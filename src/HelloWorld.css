@@ -1,0 +1,10 @@
+/* HelloWorld.css */
+.hello-container {
+     padding: 20px;
+     border: 2px solid #1a5b55;
+     border-radius: 8px;
+     max-width: 600px;
+     margin: 20px auto;
+     background-color: #f0f9ff;
+   }
+   
